@@ -67,7 +67,6 @@ export default function App() {
           <Summary watched={watched} />
           <WatchedMoviesList watched={watched} />
         </Box>
-        {/* <WatchedBox /> */}
       </Main>
     </>
   );
